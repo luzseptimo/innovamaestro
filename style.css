@@ -12,6 +12,11 @@
   margin-left: 10px;
 }
 
+textarea {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
 /*Login Section */
 
 .login-cover {

@@ -1,2 +1,2 @@
 # innovamaestro
-Web based certificate authentication.
+Herramienta para verificar certificados contra una base de datos.
